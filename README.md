@@ -8,6 +8,6 @@
 
 # ![](Images/about%20me.png)
 
-[](https://github.com/Amritsandhu95/Amrit_portfolio/blob/main/about%20me)
+[About me](https://github.com/Amritsandhu95/Amrit_portfolio/blob/main/about%20me)
 
 
