@@ -1,6 +1,4 @@
-# Amrit_portfolio
-
-# Welcome to Amrit's Portfolio
+# Welcome to Amrit's Portfolio!
 
 ![](Images/WhatsApp%20Image%202020-11-29%20at%205.15.08%20PM.jpeg)
 
