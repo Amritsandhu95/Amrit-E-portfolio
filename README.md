@@ -6,6 +6,8 @@
 
 # ![](Images/about%20me.png)
 
+[about](wiki/home)
+
 [About me](about%20me)
 
 
