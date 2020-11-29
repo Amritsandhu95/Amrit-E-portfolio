@@ -8,6 +8,6 @@
 
 # ![](Images/about%20me.png)
 
-[About me](/about%20me)
+[About me](about%20me)
 
 
