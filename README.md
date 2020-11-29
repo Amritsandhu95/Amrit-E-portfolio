@@ -1,7 +1,7 @@
 # Amrit_portfolio
 Professional portfolio
 
-# Home: Welcome to Amrit's Portfolio
+# Welcome to Amrit's Portfolio
 Images/Readme.md 
 # About:
 I'm well-organised, proactive, collaborative, initiative and constantly learning IT professional. I have completed Master of Information Technology from Flinders University in February 2020 and I'm pursuing Professional Year from Navitas Professional.
