@@ -1,8 +1,8 @@
 # Welcome to Amrit's Portfolio!
 
-![](Images/WhatsApp%20Image%202020-11-29%20at%205.15.08%20PM.jpeg){:height="264px" width="200px"} 
-I completed Master of Information Technology from Flinders University in February 2020. 
-
+![](Images/WhatsApp%20Image%202020-11-29%20at%205.15.08%20PM.jpeg){:height="300px" width="260px"} 
+# Amritpal Kaur Sandhu
+I completed Master of Information Technology in February 2020 from Flinders University and started Professional Year Program in April 2020. I have experience of Customer Service 
 
 
 [about](wiki/home)
