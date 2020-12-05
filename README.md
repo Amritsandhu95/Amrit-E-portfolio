@@ -1,6 +1,6 @@
 # Welcome to Amrit's Portfolio!
 
-![](Images/WhatsApp%20Image%202020-11-29%20at%205.15.08%20PM.jpeg){:height="12px" width="24px"} 
+![](Images/WhatsApp%20Image%202020-11-29%20at%205.15.08%20PM.jpeg){:height="48px" width="64px"} 
 I completed Master of Information Technology from Flinders University in February 2020. 
 
 
