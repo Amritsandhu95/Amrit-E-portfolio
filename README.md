@@ -8,6 +8,6 @@
 
 [about](wiki/home)
 
-[About me](about%20me)
+
 
 
