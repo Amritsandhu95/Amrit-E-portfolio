@@ -4,7 +4,6 @@
 
 
 
-# ![](Images/about%20me.png)
 
 [about](wiki/home)
 
