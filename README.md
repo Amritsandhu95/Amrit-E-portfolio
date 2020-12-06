@@ -59,7 +59,32 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
   
 
  ## Skills:
-    -------
+   -------
+  
+ **Technical Skills:**
++ Experience in using basic Microsoft Office Pack: Word, Excel, Access, Publisher, Outlook, PowerPoint, Canva and Google slides
+
++ Basic knowledge of user interface communication
+
++ Familiar with Linux and Unix
+
++ Data Entry
+
++ Technical Writing
+
+**Soft Skills:**
++ Active Listener
+
++ Leadership
+
++ Problem solving
+
++ Responsible
+
++ Well-Organised
+
++ Excellent Communication Skills
+
     
     
  
