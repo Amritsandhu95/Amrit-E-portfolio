@@ -116,9 +116,9 @@ This project was about creating an app to book parking lots for shopping centres
 
 ## Resume:
 
-[Resume]<br>
-  
-(https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Resume-IT-Amrit%20Sandhu.pdf)
+[Resume](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Resume-IT-Amrit%20Sandhu.pdf)<br>
+
+
 ![](Images/resume%201.PNG)
 ![](Images/resume%202.PNG)
 ![](Images/resume%203.PNG)
