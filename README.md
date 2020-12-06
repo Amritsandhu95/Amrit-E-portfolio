@@ -1,6 +1,3 @@
-![](Images/Information%20Technology%20image.jpg){:height="500"px width="2000px"}
-
-
 
 # Welcome to Amrit's Portfolio!
   -----------------------------
@@ -128,7 +125,7 @@ This project was about creating an app to book parking lots for shopping centres
     
     
  
-
+[Resume-IT-Amrit Sandhu.pdf](https://github.com/Amritsandhu95/Amrit_Portfolio/files/5648600/Resume-IT-Amrit.Sandhu.pdf)
 
 
 
