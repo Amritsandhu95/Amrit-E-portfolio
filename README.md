@@ -1,4 +1,4 @@
-[](/Images/Information%20Technology%20image.jpg)
+![Background image](/Images/Information%20Technology%20image.jpg)
 
 
 
