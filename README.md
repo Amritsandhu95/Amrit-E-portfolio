@@ -1,3 +1,7 @@
+![](/Images/Information%20Technology%20image.jpg)
+
+
+
 # Welcome to Amrit's Portfolio!
   -----------------------------
 
