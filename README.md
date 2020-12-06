@@ -124,6 +124,8 @@ This project was about creating an app to book parking lots for shopping centres
 ![](Images/resume%203.PNG)
 ![](Images/resume%204.PNG)
 
+## Blogs & Post:
+
 
 
   
