@@ -4,7 +4,7 @@
 
 # Welcome to Amrit's Portfolio!
   -----------------------------
-![Background image](/Images/Information%20Technology%20image.jpg){:height="250"px width="1000px"}
+  
 ![](Images/WhatsApp%20Image%202020-11-29%20at%205.15.08%20PM.jpeg){:height="300px" width="260px"} 
 ## Amritpal Kaur Sandhu
   --------------------
@@ -27,6 +27,11 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
 + Bachelor of Science (July 2013- May 2016)
   GNDU University, Punjab, India
 
+## Experience:
+   -----------
+ +
+ +
+ +
 
 
 
