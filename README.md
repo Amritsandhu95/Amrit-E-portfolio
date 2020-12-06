@@ -1,4 +1,4 @@
-![Background image](/Images/Information%20Technology%20image.jpg)
+![Background image](/Images/Information%20Technology%20image.jpg){:height="250"px width="1000px"}
 
 
 
