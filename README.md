@@ -10,7 +10,7 @@ I have experience of using Microsoft Office, Linux, Data Entry and basic knowled
 I’m well-organised, proactive, collaborative, initiative and constantly learning IT professional and actively looking for position of IT Help Desk Support.
 
 
-[about](wiki/home)
+[about](https://github.com/Amritsandhu95/Amrit_Portfolio/wiki/home)
 
 
 
