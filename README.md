@@ -31,9 +31,12 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
    -----------
   
 + **Customer Service Assistant, Marcellina, Adelaide, South Australia, Australia** <br>
+  <br>
   December 2018 - Present <br>
+  <br>
   **Responsibilities**: 
   - Taking orders on computer
+  <br>
   - Managing and prioritise tasks
   - Suggesting customers on different choices
   - Taking ownership of customer requests and problems
