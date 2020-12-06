@@ -1,4 +1,4 @@
-![](https://github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/Information%20Technology%20image.jpg){:height="250"px width="1000px"}
+![](https://raw.github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/Information%20Technology%20image.jpg){:height="250"px width="1000px"}
 
 
 
@@ -118,10 +118,10 @@ This project was about creating an app to book parking lots for shopping centres
 ## Resume:
 
 [Resume.pdf](https://github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Resume-IT-Amrit%20Sandhu.pdf)
-![](https://github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/resume%201.PNG)
-![](https://github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/resume%202.PNG)
-![](https://github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/resume%203.PNG)
-![](https://github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/resume%204.PNG)
+![](https://raw.github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/resume%201.PNG)
+![](https://raw.github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/resume%202.PNG)
+![](https://raw.github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/resume%203.PNG)
+![](https://raw.github.com/Amritsandhu95/Amrit_Portfolio/blob/main/Images/resume%204.PNG)
 
 
 
