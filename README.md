@@ -30,9 +30,9 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
 ## Employment:
    -----------
   
-+ **Customer Service Assistant, Marcellina, Adelaide, South Australia, Australia**
-  December 2018 - Present
-  **Responsibilities**:
++ **Customer Service Assistant, Marcellina, Adelaide, South Australia, Australia** <br>
+  December 2018 - Present <br>
+  **Responsibilities**: 
   - Taking orders on computer
   - Managing and prioritise tasks
   - Suggesting customers on different choices
@@ -40,8 +40,8 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
   - Maintaining a high degree of customer service for all support queries
 
 
-+ **Personal Care Worker, RSL CARE SA, (Morlancourt), Angle Park, Adelaide, South Australia, Australia** 
-  February 2019 - Present
++ **Personal Care Worker, RSL CARE SA, (Morlancourt), Angle Park, Adelaide, South Australia, Australia** <br>
+  February 2019 - Present <br>
   **Responsibilities**:
   - Tend to meet daily living and personal requirements within the plan of care, with consideration of individual preferences including clients’ physical,                         spiritual, and social needs.
   - Display knowledge of, and work within, the policies and procedures instructions.
