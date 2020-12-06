@@ -20,7 +20,7 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
 ## Education:
   ----------
   
-+ Professional Year Program  (April 2020- MARCH 2021(Expected)) 
++ Professional Year Program  (April 2020- March 2021(Expected)) 
   Navitas Professional, South Australia, Australia
 + Master of Information Technology (February 2018- February 2020)
   Flinders University, South Australia, Australia
@@ -58,8 +58,8 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
   - Always promote the importance of a strong customer focus.
   
 
- ## Skills:
-   -------
+## Skills:
+   -----------
   
  **Technical Skills:**
 + Experience in using basic Microsoft Office Pack: Word, Excel, Access, Publisher, Outlook, PowerPoint, Canva and Google slides
@@ -84,6 +84,39 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
 + Well-Organised
 
 + Excellent Communication Skills
+
+## University Projects:
+   --------------------
+ 
+**Online Magazine Management System** (August 2019- November 2019)<br>     
+
+It was group project in which we created important functionalities of online Magazine and I got following skills: 
+
++	Creating online file library 
+
++	Creating online advertising  
+
++	Managing subscriptions 
+
++	Managing community forums
+
++	Teamworking
+
+**Parking Helper App** (June 2018- September 2018)<br>	
+
+This project was about creating an app to book parking lots for shopping centres, hospitals and universities even before one is leaving from home. Moreover, one can check how many parking lots are available before going to the place. This project included:
+
++ An application, database and network of devices working together
+
++ An almost entirely automatic system
+
++	A booking system for parking locations
+
++	Growing support for new locations
+
+
+
+
 
     
     
