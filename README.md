@@ -1,4 +1,4 @@
-![]https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Images/Information%20Technology%20image.jpg) {:height="250"px width="1000px"}
+![](Images/Information%20Technology%20image.jpg){:height="250"px width="1000px"}
 
 
 
