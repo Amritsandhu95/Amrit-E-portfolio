@@ -36,19 +36,14 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
   <br>
   **Responsibilities**: 
   - Taking orders on computer
-  
-  <br>
+
   - Managing and prioritise tasks
   
-  <br>
   - Suggesting customers on different choices
   
-  <br>
   - Taking ownership of customer requests and problems
   
-  <br>
   - Maintaining a high degree of customer service for all support queries
-  <br>
 
 
 + **Personal Care Worker, RSL CARE SA, (Morlancourt), Angle Park, Adelaide, South Australia, Australia** <br>
@@ -58,15 +53,15 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
   **Responsibilities**:
   - Tend to meet daily living and personal requirements within the plan of care, with consideration of individual preferences including clients’ physical,                         spiritual, and social needs.
   
-  <br>
   - Display knowledge of, and work within, the policies and procedures instructions.
   
-  <br>
   - Always promote the importance of a strong customer focus.
   
-  <br>
 
  ## Skills:
+    -------
+    
+    
  
 
 
