@@ -57,9 +57,8 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
   - Always promote the importance of a strong customer focus.
   <br>
 
+ ## Skills:
  
-
-
 
 
 
