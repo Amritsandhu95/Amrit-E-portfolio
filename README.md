@@ -17,11 +17,13 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
 ## Education:
   ----------
   
-+ Professional Year Program  (April 2020- March 2021(Expected)) 
++ Professional Year Program  (April 2020- March 2021(Expected)) <br>
   Navitas Professional, South Australia, Australia
-+ Master of Information Technology (February 2018- February 2020)
+  
++ Master of Information Technology (February 2018- February 2020)<br>
   Flinders University, South Australia, Australia
-+ Bachelor of Science (July 2013- May 2016)
+  
++ Bachelor of Science (July 2013- May 2016)<br>
   GNDU University, Punjab, India
 
 ## Employment:
