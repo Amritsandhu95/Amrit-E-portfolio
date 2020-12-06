@@ -21,18 +21,31 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
   ----------
   
 + Professional Year Program  (April 2020- MARCH 2021(Expected)) 
-  Navitas Professional, South Australia
+  Navitas Professional, South Australia, Australia
 + Master of Information Technology (February 2018- February 2020)
-  Flinders University, South Australia
+  Flinders University, South Australia, Australia
 + Bachelor of Science (July 2013- May 2016)
   GNDU University, Punjab, India
 
-## Experience:
+## Employment:
    -----------
- +
- +
- +
+  
++ **Customer Service Assistant, Marcellina, Adelaide, South Australia, Australia**
+  December 2018 - Present
+  **Responsibilities**: - Taking orders on computer
+                        - Managing and prioritise tasks
+                        - Suggesting customers on different choices
+                        - Taking ownership of customer requests and problems
+                        - Maintaining a high degree of customer service for all support queries
 
+
++ **Personal Care Worker, RSL CARE SA, (Morlancourt), Angle Park, Adelaide, South Australia, Australia** 
+February 2019 - Present
+**Responsibilities**: - Tend to meet daily living and personal requirements within the plan of care, with consideration of individual preferences including clients’ physical,                         spiritual, and social needs.
+                      - Display knowledge of, and work within, the policies and procedures instructions.
+                      - Always promote the importance of a strong customer focus.
+
+ 
 
 
 
