@@ -128,6 +128,22 @@ This project was about creating an app to book parking lots for shopping centres
 
 
 
+## Contact me:
+<!-- modify this form HTML and place wherever you want your form -->
+<div id="Contact">
+  <h2>Get in Touch</h2>
+  <div id="Contact-from">
+<form
+  action="https://formspree.io/f/mwkwrkqr"
+  method="POST"
+>
+  <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Type your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
   
 
 
