@@ -126,6 +126,17 @@ This project was about creating an app to book parking lots for shopping centres
 
 ## Blogs & Post:
 
+**Key attributes for professional development:**
++ **Developing action steps:**  Choose your goal, focus on area that you want to develop and achieve your goal to develop the professionalism. 
++ **Set long term goals first:** By setting log term goal first, one can start thinking about the short-term goals to achieve that long-term goal. For example, to become doctor, which is a long-term goal, one can start to achieve short-term goals such as completing doctoral degree. 
++ **Technical Knowledge:** To become professional, one must have the technical skills related to his or her field to work effectively.
++ Make a record of your satisfactory moments: record all satisfactory moments such as certification, compliments and awards to add on your resumes and cover letters.
++ **Evaluate yourself:** Always try to evaluate yourself to check your professional work and track what you need to learn to improve professionalism. 
++ **Explore yourself:** You should have deeper knowledge of your likes and dislikes to express yourself in a positive way.
++ **Be ready for the challenge:** At workplace, you will get lots of challenges and you have to be ready to phase that challenges to prove yourself and get rewards. Phasing challenges with positive attitude is very important aspect of professionalism.
+
+
+
 [**Canva Poster on "Say no to bullying"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/bullying%20%20Posters.pdf)<br>
 
 [**Canva Inforgraphic on "Presentation Tips"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Tips%20Infographics.pdf)
