@@ -133,13 +133,24 @@ This project was about creating an app to book parking lots for shopping centres
 <div id="Contact">
   <h2>Get in Touch:</h2>
   <div id="Contact-from">
+    <style>
+      .message{
+        width: 40%;
+        height: 100px;
+        padding: 10px;
+        border: 3px dashed #8ebf42;
+        background-color: #d0e2bc;
+        font: 1.4em/1.6em cursive;
+        color: #095484;
+      }
+    </style>
 <form
   action="https://formspree.io/f/mwkwrkqr"
   method="POST"
 >
   <input type="hidden" name="_subject" value="Contact request from personal website" />
                 <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Type your message" required></textarea>
+                <textarea name="message" placeholder="Type your message" required></textarea><br>
                 <button type="submit">Send</button>
             </form>
         </div>
