@@ -139,28 +139,28 @@ This project was about creating an app to book parking lots for shopping centres
 
 [Canva Poster on "Say no to bullying"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/bullying%20%20Posters.pdf)<br>
 
-[**Canva Inforgraphic on "Presentation Tips"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Tips%20Infographics.pdf)
+[Canva Inforgraphic on "Presentation Tips"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Tips%20Infographics.pdf)
 
-[**Canva Inforgraphic on "Meeting Tips"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/meeting%20top%2010%20tips%20Infographics.pdf)
+[Canva Inforgraphic on "Meeting Tips"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/meeting%20top%2010%20tips%20Infographics.pdf)
 
-[**Canva Poster on "Small Talk"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/small%20talk%20Posters.pdf)
+[Canva Poster on "Small Talk"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/small%20talk%20Posters.pdf)
 
-[**Prezi Presentation Slides on "My Portfolio"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Portfolio.pdf)<br>
+[Prezi Presentation Slides on "My Portfolio"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Portfolio.pdf)<br>
 
 **Safety Presentation during Professional Year Program**<br>
-[**Safety Presentation Video**](https://youtu.be/M-Wrj3pBoZc)<br>
-[**Safety Presentation Slides**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Slides.pptx)
+[Safety Presentation Video](https://youtu.be/M-Wrj3pBoZc)<br>
+[Safety Presentation Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Slides.pptx)
 
 
 ## Contact me
 
 **Contact number: 0426 577 210** <br>
 
-[**E-mail me**](mailto:sandhuamrit599@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br>
+[E-mail me](mailto:sandhuamrit599@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br>
 
-[**Connect with me on LinkedIn**](https://www.linkedin.com/in/amrit-sandhu-284b2b1a7/)<br>
+[Connect with me on LinkedIn](https://www.linkedin.com/in/amrit-sandhu-284b2b1a7/)<br>
 
-[**Contact me on Github**](https://github.com/Amritsandhu95) <br>
+[Contact me on Github](https://github.com/Amritsandhu95) <br>
 
 
 <!-- modify this form HTML and place wherever you want your form -->
