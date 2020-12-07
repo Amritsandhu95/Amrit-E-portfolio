@@ -171,9 +171,7 @@ This project was about creating an app to book parking lots for shopping centres
         </div>
     </div>
   
-[**Connect with me on LinkedIn**](https://www.linkedin.com/in/amrit-sandhu-284b2b1a7/)<br>
 
-[**Contact me on Github**](https://github.com/Amritsandhu95) <br>
 
 
 
