@@ -137,7 +137,7 @@ This project was about creating an app to book parking lots for shopping centres
 
 
 
-[**Canva Poster on "Say no to bullying"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/bullying%20%20Posters.pdf)<br>
+[Canva Poster on "Say no to bullying"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/bullying%20%20Posters.pdf)<br>
 
 [**Canva Inforgraphic on "Presentation Tips"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Tips%20Infographics.pdf)
 
