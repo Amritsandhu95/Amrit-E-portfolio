@@ -134,6 +134,15 @@ This project was about creating an app to book parking lots for shopping centres
   <h2>Send me your message:</h2>
   <div id="Contact-from">
     <style>
+      .email{
+      width: 20%;
+        height: 40px;
+        padding: 10px;
+        border: 3px dashed #8ebf42;
+        background-color: #d0e2bc;
+        font: 1.1em/1.4em cursive;
+        color: #095484;
+      }
       .message{
         width: 40%;
         height: 100px;
@@ -149,15 +158,16 @@ This project was about creating an app to book parking lots for shopping centres
   method="POST"
 >
   <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required><br>
+                <input type="email" class="email" name="_replyto" placeholder="Your email" required><br>
                 <textarea class= "message" name="message" placeholder="Type your message" required></textarea><br>
                 <button type="submit">Send</button>
             </form>
         </div>
     </div>
   
-[**Connect with me on LinkedIn**](https://www.linkedin.com/in/amrit-sandhu-284b2b1a7/)
-[**Contact me on Github**](https://github.com/Amritsandhu95)
+[**Connect with me on LinkedIn**](https://www.linkedin.com/in/amrit-sandhu-284b2b1a7/)<br>
+
+[**Contact me on Github**](https://github.com/Amritsandhu95) <br>
 
 
 
