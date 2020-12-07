@@ -134,7 +134,11 @@ This project was about creating an app to book parking lots for shopping centres
 
 [**Canva Poster on "Small Talk"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/small%20talk%20Posters.pdf)
 
-[**Prezi Presentation Slides on "My Portfolio"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Portfolio.pdf)
+[**Prezi Presentation Slides on "My Portfolio"**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Portfolio.pdf)<br>
+
+**Safety Presentation during Professional Year Program**
+[**Safety Presentation Video**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/blob/main/Posts/Video.mp4)
+[**Safety Presentation Slides**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Slides.pptx)
 
 
 ## Contact me:
