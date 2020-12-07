@@ -14,7 +14,7 @@ I have experience of providing excellent **Customer Service** as I have been wor
 
 I’m well-organised, proactive, collaborative, initiative and constantly learning IT professional and actively looking for position of **IT Help Desk Support.**
 
-## Education:
+## Education
   ----------
   
 + Professional Year Program  (April 2020- March 2021(Expected)) <br>
@@ -26,7 +26,7 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
 + Bachelor of Science (July 2013- May 2016)<br>
   GNDU University, Punjab, India
 
-## Employment:
+## Employment
    -----------
   
 + **Customer Service Assistant, Marcellina, Adelaide, South Australia, Australia** <br>
@@ -57,7 +57,7 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
   - Always promote the importance of a strong customer focus.
   
 
-## Skills:
+## Skills
    -----------
   
  **Technical Skills:**
@@ -84,7 +84,7 @@ I’m well-organised, proactive, collaborative, initiative and constantly learni
 
 + Excellent Communication Skills
 
-## University Projects:
+## University Projects
    --------------------
  
 **Online Magazine Management System** (August 2019- November 2019)<br>     
@@ -114,7 +114,7 @@ This project was about creating an app to book parking lots for shopping centres
 +	Growing support for new locations
 
 
-## Resume:
+## Resume
 
 [Resume](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Resume-IT-Amrit%20Sandhu.pdf)<br>
 
@@ -124,7 +124,7 @@ This project was about creating an app to book parking lots for shopping centres
 ![](Images/resume%203.PNG)
 ![](Images/resume%204.PNG)
 
-## Blogs & Post:
+## Blogs & Posts
 
 **Key attributes for professional development:**
 + **Developing action steps:**  Choose your goal, focus on area that you want to develop and achieve your goal to develop the professionalism. 
@@ -152,7 +152,7 @@ This project was about creating an app to book parking lots for shopping centres
 [**Safety Presentation Slides**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Slides.pptx)
 
 
-## Contact me:
+## Contact me
 
 **Contact number: 0426 577 210** <br>
 
