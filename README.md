@@ -149,7 +149,7 @@ This project was about creating an app to book parking lots for shopping centres
         padding: 10px;
         border: 3px dashed #8ebf42;
         background-color: #d0e2bc;
-        font: 1.4em/1.6em cursive;
+        font: 1.1em/1.4em cursive;
         color: #095484;
       }
     </style>
