@@ -154,6 +154,8 @@ This project was about creating an app to book parking lots for shopping centres
 
 ## Contact me:
 
+**Contact number: 0426 577 210** <br>
+
 [**E-mail me**](mailto:sandhuamrit599@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br>
 
 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/amrit-sandhu-284b2b1a7/)<br>
