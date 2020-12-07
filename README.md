@@ -149,8 +149,8 @@ This project was about creating an app to book parking lots for shopping centres
   method="POST"
 >
   <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Type your message" required></textarea><br>
+                <input type="email" name="_replyto" placeholder="Your email" required><br>
+                <textarea class= "message" name="message" placeholder="Type your message" required></textarea><br>
                 <button type="submit">Send</button>
             </form>
         </div>
