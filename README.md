@@ -130,6 +130,11 @@ This project was about creating an app to book parking lots for shopping centres
 
 [Canva Inforgraphic on "Presentation Tips"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Tips%20Infographics.pdf)
 
+[Canva Inforgraphic on "Meeting Tips"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/meeting%20top%2010%20tips%20Infographics.pdf)
+
+[Canva Poster on "Small Talk"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/blob/main/Posts/small%20talk%20Posters.pdf)
+
+[Canva Infographic on "Presentation Tips"](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Amritsandhu95/Amrit_Portfolio/main/Posts/Presentation%20Tips%20Infographics.pdf) 
 
 
 
