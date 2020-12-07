@@ -129,6 +129,12 @@ This project was about creating an app to book parking lots for shopping centres
 
 
 ## Contact me:
+
+[**Connect with me on LinkedIn**](https://www.linkedin.com/in/amrit-sandhu-284b2b1a7/)<br>
+
+[**Contact me on Github**](https://github.com/Amritsandhu95) <br>
+
+
 <!-- modify this form HTML and place wherever you want your form -->
 <div id="Contact">
   <h2>Send me your message:</h2>
